@@ -1,7 +1,7 @@
 import {useState ,useEffect} from "react"
 
 import Video from './Video';
-import './app.css';
+import './App.css';
 
 
 function App() {
