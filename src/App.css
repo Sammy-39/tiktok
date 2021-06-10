@@ -25,6 +25,6 @@ html{
     scrollbar-width: none;  /* Firefox */
 }
 
-.app_videosy::-webkit-scrollbar { 
+.app_videos::-webkit-scrollbar { 
     display: none;  /* Safari and Chrome */
 }
